@@ -31,3 +31,14 @@ H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
 H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
 H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.dll
 H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.pdb

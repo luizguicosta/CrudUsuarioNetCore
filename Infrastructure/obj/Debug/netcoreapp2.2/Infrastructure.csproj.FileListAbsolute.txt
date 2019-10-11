@@ -37,3 +37,16 @@ H:\CrudUsuariosNetCore\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.Ass
 H:\CrudUsuariosNetCore\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
 H:\CrudUsuariosNetCore\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
 H:\CrudUsuariosNetCore\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb

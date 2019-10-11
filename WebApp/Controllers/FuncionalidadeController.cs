@@ -61,10 +61,12 @@ namespace WebApp.Controllers
                     return View(funcionalidade);
                 }
                 _funcionalidadeBusiness.Add(funcionalidade);
+                TempData["Message"] = "Funcionalidade Salva com sucesso";
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
+                TempData["MessageError"] = "Erro ao salvar a Funcionalidade";
                 return View(funcionalidade);
             }
         }
@@ -76,6 +78,11 @@ namespace WebApp.Controllers
         /// <returns>View</returns>
         public ActionResult Edit(int id)
         {
+            var funcionalidade = _funcionalidadeBusiness.GetEntityById(id);
+            if(funcionalidade != null)
+            {
+                return View(funcionalidade);
+            }
             return View();
         }
 
@@ -96,10 +103,13 @@ namespace WebApp.Controllers
                     return View(funcionalidade);
                 }
                 _funcionalidadeBusiness.Update(funcionalidade);
+                _funcionalidadeBusiness.Save();
+                TempData["Message"] = "Funcionalidade Editada com sucesso";
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
+                TempData["MessageError"] = "Erro ao Editar a Funcionalidade";
                 return View();
             }
         }
@@ -111,12 +121,21 @@ namespace WebApp.Controllers
         /// <returns>View</returns>
         public ActionResult Delete(int id)
         {
-            var funcionalidade = _funcionalidadeBusiness.GetEntityById(id);
-            if(funcionalidade != null)
+            try
             {
-                _funcionalidadeBusiness.Remove(funcionalidade);
-                return RedirectToAction(nameof(Index));
+                var funcionalidade = _funcionalidadeBusiness.GetEntityById(id);
+                if (funcionalidade != null)
+                {
+                    _funcionalidadeBusiness.Remove(funcionalidade);
+                    TempData["Message"] = "Funcionalidade Salva com sucesso";
+                    return RedirectToAction(nameof(Index));
+                }
             }
+            catch (Exception)
+            {
+                TempData["MessageError"] = "Erro ao deletar a Funcionalidade";
+            }
+            
             return View();
         }
     }

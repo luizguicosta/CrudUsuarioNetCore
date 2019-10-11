@@ -1,0 +1,10 @@
+﻿
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+@if (TempData["MessageErro"] != null)
+{
+    <div class="alert alert-success">@TempData["MessageError"].ToString()</div>
+}

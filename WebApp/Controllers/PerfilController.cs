@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using Business.Interface;
 using Domain.Entities;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
 
 namespace WebApp.Controllers
@@ -52,7 +49,6 @@ namespace WebApp.Controllers
         public ActionResult Create()
         {
             ViewBag.Funcionalidade = _funcionalidadeBusiness.GetEntities();
-            //ViewBag.Funcionalidade = new SelectList(Funcionalidades, "IdFuncionalidade", "Nome");
             return View(new Perfil());
         }
 
@@ -74,11 +70,13 @@ namespace WebApp.Controllers
                     return View(perfil);
                 }
                 _perfilBusiness.Add(newPerfil);
+                TempData["Message"] = "Perfil Salvo com sucesso";
                 UpdateFuncionalidades(newPerfil, listaFunc);
                 return RedirectToAction(nameof(Index));
             }
-            catch (Exception ex)
+            catch (Exception)
             {
+                TempData["MessageError"] = "Erro ao Salvar o perfil";
                 return View(newPerfil);
             }
         }
@@ -111,10 +109,13 @@ namespace WebApp.Controllers
             try
             {
                 _perfilBusiness.Update(perfil);
+                _perfilBusiness.Save();
+                TempData["Message"] = "Perfil Editado com sucesso";
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
+                TempData["MessageError"] = "Erro ao Editar o perfil";
                 return View(perfil);
             }
         }
@@ -131,14 +132,16 @@ namespace WebApp.Controllers
                 var perfil = _perfilBusiness.GetEntityById(id);
                 if (perfil != null)
                 {
+                    RemovePerfilFuncionalidade(perfil.Funcionalidades);
+                    perfil.Funcionalidades.Clear();
                     _perfilBusiness.Remove(perfil);
+                    TempData["Message"] = "Perfil Deletado com sucesso";
                 }
 
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                return RedirectToAction(nameof(Index));
+                TempData["MessageError"] = "Erro ao deletar o perfil";
             }
 
             return RedirectToAction(nameof(Index));
@@ -160,6 +163,24 @@ namespace WebApp.Controllers
                     _funcionalidadeBusiness.Update(func);
                 }
 
+                _funcionalidadeBusiness.Save();
+            }
+        }
+
+        /// <summary>
+        /// Remover o idperfil da funcionalidade
+        /// </summary>
+        /// <param name="funcionalidades">Lista de funcionalidades</param>
+        private void RemovePerfilFuncionalidade(List<Funcionalidade> funcionalidades)
+        {
+            if(funcionalidades.Count > 0)
+            {
+                foreach (var item in funcionalidades)
+                {
+                    var func = _funcionalidadeBusiness.GetEntityById(item.IdFuncionalidade);
+                    func.Perfil = null;
+                    _funcionalidadeBusiness.Update(func);
+                }
                 _funcionalidadeBusiness.Save();
             }
         }

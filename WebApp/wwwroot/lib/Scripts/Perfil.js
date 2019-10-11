@@ -14,7 +14,7 @@
                 Funcionalidades: funcionalidades
             },
             success: function (result) {
-                alert(result.someValue);
+                window.location.href = '/Perfil/Index';
             }
         });
         return false;

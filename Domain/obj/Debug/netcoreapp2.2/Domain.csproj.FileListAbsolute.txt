@@ -21,3 +21,11 @@ H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.
 H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
 H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.dll
 H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

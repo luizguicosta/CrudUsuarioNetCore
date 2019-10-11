@@ -66,11 +66,12 @@ namespace WebApp.Controllers
             try
             {
                _usuarioBusiness.Add(usuario);
-                var newUser = usuario;
+                TempData["Message"] = "Usuario Salvo com sucesso";
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
+                TempData["MessageError"] = "Erro ao Salvar o Usuario";
                 return View(usuario);
             }
         }
@@ -108,10 +109,13 @@ namespace WebApp.Controllers
                     return View(usuario);
                 }
                 _usuarioBusiness.Update(usuario);
+                _usuarioBusiness.Save();
+                TempData["Message"] = "Usuario Editado com sucesso";
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
+                TempData["MessageError"] = "Erro ao Editar o Usuario";
                 return View();
             }
         }
@@ -129,11 +133,12 @@ namespace WebApp.Controllers
                 if (usuario != null)
                 {
                     _usuarioBusiness.Remove(usuario);
+                    TempData["Message"] = "Usuario deletado com sucesso";
                 }
             }
             catch (Exception)
             {
-                return RedirectToAction(nameof(Index));
+                TempData["MessageError"] = "Erro ao Deletar o Usuario";
             }
 
             return RedirectToAction(nameof(Index));

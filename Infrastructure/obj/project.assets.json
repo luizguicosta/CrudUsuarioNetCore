@@ -3630,23 +3630,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Guilherme Costa\\.nuget\\packages\\": {},
+    "C:\\Users\\luiz.reis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\CrudUsuariosNetCore\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "H:\\CrudUsuariosNetCore\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Guilherme Costa\\.nuget\\packages\\",
-      "outputPath": "H:\\CrudUsuariosNetCore\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\luiz.reis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Guilherme Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luiz.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3654,13 +3654,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\10.19.20.200\\Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "H:\\CrudUsuariosNetCore\\Domain\\Domain.csproj": {
-              "projectPath": "H:\\CrudUsuariosNetCore\\Domain\\Domain.csproj"
+            "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Domain\\Domain.csproj"
             }
           }
         }
