@@ -1,0 +1,57 @@
+﻿@model Domain.Entities.Perfil
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Adicionar perfil</h1>
+
+<h4>Perfil</h4>
+<hr />
+<div class="row">
+    <div class="col-md-10">
+        @using (Html.BeginForm(null, null, FormMethod.Post, new { id = "__AjaxAntiForgeryForm" }))
+        {
+            @Html.AntiForgeryToken()
+        }
+
+        <div class="form-group">
+            <label asp-for="NomePerfil" class="control-label"></label>
+            <input asp-for="NomePerfil" id="NomePerfil" class="form-control" />
+            <span asp-validation-for="NomePerfil" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" data-url="@Url.Action("Create","Perfil")" value="Salvar" id="btnSalvar" class="btn btn-primary" />
+        </div>
+        @if (ViewBag.Funcionalidade.Count > 0)
+        {
+            <table id="tablePerfilFunc" class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Nome Funcionalidade</th>
+                        <th>Adicionar Funcionalidade</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.Funcionalidade)
+                    {
+                        <tr>
+                            <td>@item.IdFuncionalidade</td>
+                            <td>@item.Nome</td>
+                            <td> <input type="checkbox" /></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para  lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

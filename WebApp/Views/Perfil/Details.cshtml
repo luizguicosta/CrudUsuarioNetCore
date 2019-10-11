@@ -1,0 +1,42 @@
+﻿@model Domain.Entities.Perfil
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes do perfil</h1>
+
+<div>
+    <h4>Perfil</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomePerfil)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomePerfil)
+        </dd>
+    </dl>
+</div>
+@if (Model.Funcionalidades.Count > 0)
+{
+    <table  class="table table-hover">
+        <thead>
+            <tr>
+                <th>Nome Funcionalidade</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Funcionalidades)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<div>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.IdPerfil }) |
+    <a asp-action="Index">Voltar para a lista</a>
+</div>

@@ -1,0 +1,33 @@
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.pdb
+F:\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+F:\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.dll
+F:\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.pdb
+F:\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Domain.dll
+F:\CrudFuncionariosNetCore\Business\bin\Debug\netcoreapp2.2\Domain.pdb
+F:\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+F:\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+F:\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+F:\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
+F:\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.dll
+F:\CrudFuncionariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.pdb
+H:\CrudUsuariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+H:\CrudUsuariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.dll
+H:\CrudUsuariosNetCore\Business\bin\Debug\netcoreapp2.2\Business.pdb
+H:\CrudUsuariosNetCore\Business\bin\Debug\netcoreapp2.2\Domain.dll
+H:\CrudUsuariosNetCore\Business\bin\Debug\netcoreapp2.2\Domain.pdb
+H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
+H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.dll
+H:\CrudUsuariosNetCore\Business\obj\Debug\netcoreapp2.2\Business.pdb

@@ -1,0 +1,152 @@
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.deps.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.dev.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfoInputs.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.input.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.output.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorCoreGenerate.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.Views.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CopyComplete
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Create.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Details.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Edit.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Delete.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Index.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Create.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Details.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Edit.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Details.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Create.cshtml.g.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Edit.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\appsettings.json
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.deps.json
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.json
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.dev.json
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.dll
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.pdb
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.dll
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.pdb
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Business.dll
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Domain.dll
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Infrastructure.dll
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Business.pdb
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Domain.pdb
+F:\CrudFuncionariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfoInputs.cache
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfo.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.input.cache
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.output.cache
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorCoreGenerate.cache
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Create.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Details.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Edit.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Index.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Create.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Details.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Edit.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Index.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Create.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Delete.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Details.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Edit.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Index.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cache
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cs
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.Views.pdb
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CopyComplete
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.dll
+F:\CrudFuncionariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\appsettings.json
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.deps.json
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.json
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.runtimeconfig.dev.json
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.dll
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.pdb
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.dll
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\WebApp.Views.pdb
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Business.dll
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Domain.dll
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Infrastructure.dll
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Business.pdb
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Domain.pdb
+H:\CrudUsuariosNetCore\WebApp\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.csprojAssemblyReference.cache
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cache
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorAssemblyInfo.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfoInputs.cache
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.AssemblyInfo.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.input.cache
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.TagHelpers.output.cache
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorCoreGenerate.cache
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Create.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Details.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Edit.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Funcionalidade\Index.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Create.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Details.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Edit.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Perfil\Index.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Create.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Details.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Edit.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Index.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cache
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.RazorTargetAssemblyInfo.cs
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.Views.pdb
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.csproj.CopyComplete
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.dll
+H:\CrudUsuariosNetCore\WebApp\obj\Debug\netcoreapp2.2\WebApp.pdb

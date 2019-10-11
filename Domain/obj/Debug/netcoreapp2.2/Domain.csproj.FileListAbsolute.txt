@@ -1,0 +1,23 @@
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Guilherme Costa\source\repos\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+F:\CrudFuncionariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+F:\CrudFuncionariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+F:\CrudFuncionariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+F:\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+F:\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+F:\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+F:\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+F:\CrudFuncionariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+H:\CrudUsuariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+H:\CrudUsuariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+H:\CrudUsuariosNetCore\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+H:\CrudUsuariosNetCore\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
