@@ -5,9 +5,9 @@
         var token = $('input[name="__RequestVerificationToken"]', form).val();
         var perfil = new Object();
         perfil.NomePerfil = $("#NomePerfil").val();
-        var perfil = JSON.stringify(perfil);
         if (perfil.NomePerfil) {
             $(".error").remove();
+            perfil = JSON.stringify(perfil);
             var funcionalidades = JSON.stringify(getFunc());
             $.ajax({
                 url: $(this).data('/Perfil/Create'),

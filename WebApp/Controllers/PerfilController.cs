@@ -88,7 +88,7 @@ namespace WebApp.Controllers
         /// <returns>View com perfil</returns>
         public ActionResult Edit(int id)
         {
-            ViewBag.Funcionalidade = _funcionalidadeBusiness.GetEntities();
+            ViewBag.Funcionalidade = _funcionalidadeBusiness.GetEntities().Where(x => x.IdPerfil != id);
             var perfil = _perfilBusiness.GetEntityById(id);
             if (perfil != null)
             {
@@ -184,11 +184,6 @@ namespace WebApp.Controllers
                 }
                 _funcionalidadeBusiness.Save();
             }
-        }
-
-        public ActionResult DeleteFuncionalidade(int id, int idPerfil)
-        {
-            return RedirectToAction("Edit", idPerfil);
         }
     }
 }

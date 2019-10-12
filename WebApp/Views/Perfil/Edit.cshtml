@@ -20,7 +20,7 @@
                 <input asp-for="NomePerfil" class="form-control" />
                 <span asp-validation-for="NomePerfil" class="text-danger"></span>
             </div>
-            @if(ViewBag.Funcionalidade.Count > 0)
+            @if(Model.Funcionalidades.Count > 0)
             {
                 <table class="table table-hover">
                     <thead>
@@ -32,14 +32,10 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in ViewBag.Funcionalidade)
+                        @foreach (var item in Model.Funcionalidades)
                         {
                             <tr>
                                 <td>@item.Nome</td>
-                                <td>
-                                    @if (item.IdPerfil == Model.IdPerfil){ <input type="checkbox" checked="checked" />}
-                                    else { <input type="checkbox" />}
-                                </td>
                             </tr>
                         }
                     </tbody>
