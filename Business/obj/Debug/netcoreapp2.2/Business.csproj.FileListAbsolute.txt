@@ -42,3 +42,14 @@ C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-maste
 C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
 C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.dll
 C:\Users\luiz.reis\Documents\Visual Studio 2019\Projeto\CrudUsuarioNetCore-master\Business\obj\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\Guilherme Costa\source\repos\CrudUsuarioNetCore\Business\obj\Debug\netcoreapp2.2\Business.pdb

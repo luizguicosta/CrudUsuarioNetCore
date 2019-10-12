@@ -21,9 +21,6 @@
             <span asp-validation-for="NomePerfil" class="text-danger"></span>
         </div>
 
-        <div class="form-group">
-            <input type="submit" data-url="@Url.Action("Create","Perfil")" value="Salvar" id="btnSalvar" class="btn btn-primary" />
-        </div>
         @if (ViewBag.Funcionalidade.Count > 0)
         {
             <table id="tablePerfilFunc" class="table table-hover">
@@ -37,7 +34,7 @@
                     @foreach (var item in ViewBag.Funcionalidade)
                     {
                         <tr>
-                            <td>@item.IdFuncionalidade</td>
+                            <td hidden="hidden">@item.IdFuncionalidade</td>
                             <td>@item.Nome</td>
                             <td> <input type="checkbox" /></td>
                         </tr>
@@ -48,8 +45,9 @@
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Voltar para  lista</a>
+<div class="form-group">
+    <input type="submit" data-url="@Url.Action("Create","Perfil")" value="Salvar" id="btnSalvar" class="btn btn-primary" /> |
+    <a class="btn btn-info" asp-action="Index">Voltar para  lista</a>
 </div>
 
 @section Scripts {

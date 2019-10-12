@@ -702,23 +702,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luiz.reis\\.nuget\\packages\\": {},
+    "C:\\Users\\Guilherme Costa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Guilherme Costa\\source\\repos\\CrudUsuarioNetCore\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\luiz.reis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Business\\obj\\",
+      "projectPath": "C:\\Users\\Guilherme Costa\\source\\repos\\CrudUsuarioNetCore\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\Guilherme Costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Guilherme Costa\\source\\repos\\CrudUsuarioNetCore\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\luiz.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Guilherme Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -726,14 +726,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\10.19.20.200\\Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\luiz.reis\\Documents\\Visual Studio 2019\\Projeto\\CrudUsuarioNetCore-master\\Domain\\Domain.csproj"
+            "C:\\Users\\Guilherme Costa\\source\\repos\\CrudUsuarioNetCore\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Guilherme Costa\\source\\repos\\CrudUsuarioNetCore\\Domain\\Domain.csproj"
             }
           }
         }

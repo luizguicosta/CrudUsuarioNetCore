@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/CrudUsuarioNetCore/v16/Server/sqlite3/storage.ide-shm
+/.vs/CrudUsuarioNetCore/v16/Server/sqlite3/storage.ide-wal
+.db.lock"

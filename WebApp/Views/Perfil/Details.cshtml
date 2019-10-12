@@ -37,6 +37,6 @@
     </table>
 }
 <div>
-    @Html.ActionLink("Editar", "Edit", new { id = Model.IdPerfil }) |
-    <a asp-action="Index">Voltar para a lista</a>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.IdPerfil }, new {@class="btn btn-primary" }) |
+    <a class="btn btn-info" asp-action="Index">Voltar para a lista</a>
 </div>
